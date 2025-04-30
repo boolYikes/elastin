@@ -1,3 +1,5 @@
+### The requirements.txt is not for the Dockerfile
+
 ### To Start,
 - ./start.sh
 
@@ -9,3 +11,4 @@
 
 ### To Stop
 - ./stop.sh
+

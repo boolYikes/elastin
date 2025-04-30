@@ -1,3 +1,6 @@
 *.crt
 *.env
 data/
+*.env
+*.pyc
+tests/
